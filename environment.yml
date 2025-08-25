@@ -1,0 +1,10 @@
+# environment.yml
+name: genai-hw16-eval
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - sacrebleu
+  - rouge-score
+  - pip
