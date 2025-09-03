@@ -1,0 +1,31 @@
+id,question,answer
+0,What is the path integral formulation in QFT?,Computes amplitudes by summing over all field configurations weighted by exp(iS/ħ); equivalent to the operator formalism.
+1,What is the renormalization group in QFT?,Describes how couplings run with energy scale via beta functions by systematically integrating out short‑distance modes.
+2,What is gauge symmetry in QFT?,A local redundancy of the field description; enforcing it introduces gauge fields and dictates the interaction structure.
+3,What is spontaneous symmetry breaking in QFT?,"The ground state fails to respect a symmetry of the laws, yielding Goldstone bosons (or masses via the Higgs mechanism)."
+4,What is the Feynman propagator in QFT?,The time‑ordered Green’s function giving the amplitude to travel between points; the inverse of (□+m²) with causal boundary conditions.
+5,What is a sufficient statistic?,A function of the data that retains all information about a parameter for a given model—no loss for inference.
+6,What is the central limit theorem?,"The mean/sum of many independent, finite‑variance variables is approximately normal."
+7,What is the maximum likelihood estimator (MLE)?,The parameter value that maximizes the likelihood of the observed data under the model.
+8,What is a confidence interval?,"A procedure that covers the true parameter with a stated long‑run frequency (e.g., 95%); not a posterior probability."
+9,What is a p-value?,"The probability, assuming the null is true, of observing results at least as extreme as those seen."
+10,What is VC dimension?,A capacity measure: the largest number of points a hypothesis class can shatter.
+11,What is empirical risk minimization (ERM)?,Choose the model minimizing average loss on the training data.
+12,What is structural risk minimization (SRM)?,Minimize a bound on risk by trading off fit and model complexity across nested classes (regularization).
+13,What is the kernel trick?,Compute inner products via a kernel to act as if in high‑dimensional feature space without explicit mapping.
+14,What is the bias–variance tradeoff?,Reducing bias often increases variance; best generalization balances the two to minimize expected error.
+15,What is hermeneutics?,"The theory and methodology of interpretation, especially of texts."
+16,What is semiotics?,"The study of signs, symbols, and how meaning is created."
+17,What is historiography?,"The study of how history is written and the methods, sources, and interpretations historians use."
+18,What is deconstruction?,A critical approach that exposes internal tensions in texts and shows meanings as contingent and unstable.
+19,What is cultural relativism?,The view that beliefs and practices should be understood within their cultural context rather than judged externally.
+20,How to delete Facebook account?,Settings → Accounts Center → Personal details → Account ownership & control → Deactivation or deletion → Delete account → confirm.
+21,How to delete Instagram account?,Settings → Accounts Center → Personal details → Account ownership & control → Deactivation or deletion → Delete account → confirm.
+22,How to screenshot on Mac?,"Shift+⌘+3 (full), Shift+⌘+4 (area), Shift+⌘+5 (options/record)."
+23,How to screenshot on Windows?,"Win+Shift+S (Snipping Tool), PrtScn (copy screen), Win+PrtScn (save to Pictures/Screenshots)."
+24,How to tie a tie?,"For a four‑in‑hand: cross wide over narrow, up through loop, around front, up through front loop, pull down and center."
+25,How long to boil eggs?,"After boiling starts: soft 6–7 min, medium 8–9, hard 10–12; then ice bath."
+26,How to calculate percentage?,"Percentage = (part/whole) × 100; e.g., 25 of 200 → 12.5%."
+27,How to lose weight fast?,"Safest is gradual: 0.5–1% body weight/week via calorie deficit, high protein, resistance training, sleep; avoid crash diets."
+28,How to lower blood pressure?,"DASH‑style eating, less sodium (~1.5–2 g/day), regular exercise, limit alcohol, healthy weight, stress control; follow clinician advice."
+29,How to make money online?,"Sell skills (freelance), products (e‑commerce), or content; validate demand and avoid “get‑rich‑quick” schemes."

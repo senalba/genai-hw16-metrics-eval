@@ -1,4 +1,3 @@
-# environment.yml
 name: genai-hw16-eval
 channels:
   - conda-forge
@@ -7,4 +6,7 @@ dependencies:
   - pandas
   - sacrebleu
   - rouge-score
+  - python-dotenv
   - pip
+  - pip:
+      - openai>=1.40.0

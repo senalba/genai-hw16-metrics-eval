@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the path integral formulation in QFT?",
+    "openai_answer": "The path integral formulation in quantum field theory expresses quantum amplitudes as sums over all possible field configurations, weighted by the exponential of the action, providing a powerful method to compute correlation functions and transition amplitudes."
+  },
+  {
+    "question": "What is the renormalization group in QFT?",
+    "openai_answer": "The renormalization group in quantum field theory studies how physical parameters like coupling constants change with energy scale, helping to understand behavior of interactions at different distances or energies."
+  },
+  {
+    "question": "What is gauge symmetry in QFT?",
+    "openai_answer": "Gauge symmetry in quantum field theory is a type of symmetry where certain field transformations leave the physical predictions unchanged, reflecting redundant descriptions and leading to conserved charges and fundamental forces."
+  },
+  {
+    "question": "What is spontaneous symmetry breaking in QFT?",
+    "openai_answer": "Spontaneous symmetry breaking in quantum field theory occurs when the system's ground state does not share the symmetry of its underlying laws, causing certain symmetries to appear broken without explicit symmetry-breaking terms."
+  },
+  {
+    "question": "What is the Feynman propagator in QFT?",
+    "openai_answer": "The Feynman propagator in quantum field theory is the time-ordered Green's function describing the probability amplitude for a particle to travel between two spacetime points."
+  },
+  {
+    "question": "What is a sufficient statistic?",
+    "openai_answer": "A sufficient statistic is a function of the data that captures all information needed to estimate a parameter, making the original data unnecessary for inference about that parameter."
+  },
+  {
+    "question": "What is the central limit theorem?",
+    "openai_answer": "The central limit theorem states that the sum or average of a large number of independent, identically distributed random variables tends to follow a normal distribution, regardless of the original variable's distribution."
+  },
+  {
+    "question": "What is the maximum likelihood estimator (MLE)?",
+    "openai_answer": "The maximum likelihood estimator is a statistical method that finds the parameter values maximizing the probability of observing the given data."
+  },
+  {
+    "question": "What is a confidence interval?",
+    "openai_answer": "A confidence interval is a range of values, derived from sample data, that likely contains the true population parameter with a specified level of confidence, such as 95%."
+  },
+  {
+    "question": "What is a p-value?",
+    "openai_answer": "A p-value measures the probability of obtaining results at least as extreme as observed, assuming the null hypothesis is true, helping assess the evidence against the null hypothesis in statistical tests."
+  },
+  {
+    "question": "What is VC dimension?",
+    "openai_answer": "VC dimension measures a model's capacity by the largest set of points it can classify correctly in all possible ways, indicating its ability to fit diverse data patterns."
+  },
+  {
+    "question": "What is empirical risk minimization (ERM)?",
+    "openai_answer": "Empirical risk minimization (ERM) is a machine learning approach that selects a model by minimizing the average loss on a given training dataset, aiming to reduce prediction errors on observed data."
+  },
+  {
+    "question": "What is structural risk minimization (SRM)?",
+    "openai_answer": "Structural risk minimization is a machine learning principle that balances model complexity and training error to minimize the overall risk of poor generalization on new data."
+  },
+  {
+    "question": "What is the kernel trick?",
+    "openai_answer": "The kernel trick is a method in machine learning that allows algorithms to operate in high-dimensional spaces without explicitly computing coordinates, enabling efficient nonlinear classification and regression."
+  },
+  {
+    "question": "What is the bias–variance tradeoff?",
+    "openai_answer": "The bias–variance tradeoff is the balance between a model's simplicity (bias) and its sensitivity to data fluctuations (variance), affecting its accuracy and ability to generalize to new data."
+  },
+  {
+    "question": "What is hermeneutics?",
+    "openai_answer": "Hermeneutics is the study and theory of interpretation, especially of texts, language, and symbolic expressions, focusing on understanding meaning in context."
+  },
+  {
+    "question": "What is semiotics?",
+    "openai_answer": "Semiotics is the study of signs and symbols and how they create meaning in communication and culture."
+  },
+  {
+    "question": "What is historiography?",
+    "openai_answer": "Historiography is the study of how history is written, including the methods, sources, interpretations, and biases historians use to understand and present past events."
+  },
+  {
+    "question": "What is deconstruction?",
+    "openai_answer": "Deconstruction is a critical approach that analyzes texts to reveal hidden meanings, contradictions, and assumptions, showing how language shapes understanding and challenges fixed interpretations."
+  },
+  {
+    "question": "What is cultural relativism?",
+    "openai_answer": "Cultural relativism is the idea that a person's beliefs and practices should be understood based on their own culture, not judged by the standards of another culture."
+  },
+  {
+    "question": "How to delete Facebook account?",
+    "openai_answer": "Go to Facebook settings, select \"Your Facebook Information,\" then \"Deactivation and Deletion,\" choose \"Delete Account,\" follow prompts, and confirm to permanently delete your Facebook account."
+  },
+  {
+    "question": "How to delete Instagram account?",
+    "openai_answer": "To delete your Instagram account, go to the Delete Your Account page on Instagram's website, log in, select a reason, re-enter your password, and click \"Permanently delete my account.\" This cannot be undone."
+  },
+  {
+    "question": "How to screenshot on Mac?",
+    "openai_answer": "Press Command + Shift + 3 to capture the entire screen, or Command + Shift + 4 to select a portion to screenshot on a Mac."
+  },
+  {
+    "question": "How to screenshot on Windows?",
+    "openai_answer": "Press the \"PrtScn\" key to copy the screen to the clipboard, then paste it into an app. Or press \"Windows + Shift + S\" to select and capture part of the screen."
+  },
+  {
+    "question": "How to tie a tie?",
+    "openai_answer": "Place the tie around your neck, cross the wide end over the narrow end, loop it under and through the neck loop, then bring it down through the front knot and tighten."
+  },
+  {
+    "question": "How long to boil eggs?",
+    "openai_answer": "Boil eggs for about 9-12 minutes for hard-boiled, 6-7 minutes for medium, and 4-5 minutes for soft-boiled. Adjust time based on egg size and altitude."
+  },
+  {
+    "question": "How to calculate percentage?",
+    "openai_answer": "To calculate a percentage, divide the part by the whole, then multiply the result by 100. For example, (part ÷ whole) × 100 = percentage."
+  },
+  {
+    "question": "How to lose weight fast?",
+    "openai_answer": "To lose weight fast, reduce calorie intake, eat nutritious whole foods, increase physical activity, stay hydrated, and get enough sleep. Consult a healthcare professional before starting any rapid weight loss plan."
+  },
+  {
+    "question": "How to lower blood pressure?",
+    "openai_answer": "To lower blood pressure, eat a healthy diet low in salt, exercise regularly, maintain a healthy weight, reduce alcohol intake, manage stress, avoid smoking, and follow your doctor's advice and medications if prescribed."
+  },
+  {
+    "question": "How to make money online?",
+    "openai_answer": "You can make money online by freelancing, selling products, affiliate marketing, creating content, tutoring, or offering services through platforms like Upwork, Etsy, Amazon, or YouTube."
+  }
+]
